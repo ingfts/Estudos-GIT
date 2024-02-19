@@ -1,0 +1,49 @@
+
+
+---------------------LINGUAGEM MARKDOWN--------------------------
+
+
+--- Formatação de texto
+
+**negrito** ou __negrito__
+*italico* ou _italico_
+~~testo riscado~~
+# semelhante ao <h1> no HTML 
+## semelhante ao <h2> no HTML 
+### semelhante ao <h3> no HTML 
+*** semelhante ao </br> em HTML 
+
+
+--- Lista numerada 
+
+1.item1
+1.item2
+1.item3 
+
+
+---Lista demarcada (com bolinha) 
+* item 
+* item 
+* item 
+
+
+--- Lista de tarefa (checkbox) 
+
+- [  ] tarefa a fazer 
+- [x] tarefa concluida 
+
+
+--- Estrutura de uma tabela 
+
+Nome | Idade 
+---|---|
+1 | user| 10
+2 | user| 11 
+3 | user| 12
+
+
+--- Adicionar FRASE com aparencia de trecho de código 
+`utiliza-se aspas para dar aspecto de código` a uma frase (ctrl + aspas) 
+
+--- Adicionar TEXTO com aparencia de trecho de código 
+```utiliza-se tres aspas para dar aspecto de código a um texto``` (ctrl + aspas) 
