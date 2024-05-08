@@ -40,5 +40,5 @@ obs: para sair da tela de mensagem de commit no gitBash e afetuar o commit) : (E
 
 
 obs: caso aconteça um erro ao subir um arquivo (git push) segue abaixo a resolução: 
-> git push + linkDoRepositorio  master -f
+> git push -f origin master 
 
